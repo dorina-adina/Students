@@ -1,0 +1,4 @@
+c1 ana 12
+c2 marcel 20
+c3 radu 15
+c4 dorin 13
